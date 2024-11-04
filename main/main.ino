@@ -1,3 +1,9 @@
+/*
+ * NAME: NKANDU PHIRI
+ * DATE: 4/11/2024
+ * TITLE: LED LIGHTS
+ */
+
 #define LED1 13
 #define LED2_R 9
 #define LED2_G 10
